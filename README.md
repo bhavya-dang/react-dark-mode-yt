@@ -1,8 +1,56 @@
-# React + Vite
+# 🌙 Dark Mode Toggle in React using Tailwind and Context API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This tutorial demonstrates how to build a **Dark Mode Toggle** in **React.js** using **Tailwind CSS** and **Context API**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 **Features**
+
+- 🎨 **Beautiful Dark Mode Toggle** with a glowing blue design.
+- 🔄 **Theme Persistence** using `localStorage`.
+- 🛠️ **Context Managment** using React's `Context API`
+
+---
+
+## 🛠️ **Tech Stack**
+
+- **React.js** (with Vite)
+- **Tailwind CSS**
+- **lucide-react** (for the icons)
+
+---
+
+## 🖥️ **Live Demo**
+
+**🎬 [Watch the Tutorial](https://youtu.be/7WEIWJkjmHQ)**
+
+**🔗[ GitHub Repo](https://github.com/bhavya-dang/react-dark-mode-yt)**
+
+---
+
+## ⚙️ **Installation**
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/bhavya-dang/react-dark-mode-yt
+cd react-dark-mode-yt
+```
+
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Start the development server**
+
+```bash
+npm run dev
+```
+
+## 🤝 **Contributing**
+
+Contributions are welcome! Feel free to **fork the repo**, **submit issues**, or **create pull requests**.
+
+**Happy Coding!** 🚀
